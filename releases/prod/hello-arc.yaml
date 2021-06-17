@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Demotime: Azure Arc, AKS and GitHub Actions and Azure DevOps
+      value: Demotime powered by OA: Azure Arc, AKS and GitHub Actions and Azure DevOps
