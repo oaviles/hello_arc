@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Demo about Azure Arc, Azure Kubernetes Service and GitHub Actions. Powered by OA
+      value: EY Demo about API deployment on AKS. Powered by OA
