@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Demo about Multi-Cloud / GitOps with AKS and GKE, GitHub and Azure ARC. Powered by OA
+      value: Demo about Multi-Cloud / GitOps with AKS, GitHub and Azure ARC. Powered by OA
